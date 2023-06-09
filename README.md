@@ -35,3 +35,20 @@ Enter the in time in hours and minutes (e.g., 9 30 for 9:30 AM): 9 30
 Enter the number of hours to work: 8 0
 Out time: 17:30
 ```
+
+## Program 3: Same Day Duration Calculator
+
+This Python code calculates the duration between two inputted times within the same day. It takes user input for the start time (in_time_input) and end time (out_time_input), and then computes the duration between them.
+
+## Usage
+1. Run the script in a Python environment.
+2. Enter the start time in the format "hours:minutes AM/PM" when prompted (e.g., 9:30 AM).
+3. Enter the end time in the same format when prompted (e.g., 9:30 PM).
+4. The script will calculate and display the duration in hours and minutes.
+
+## Example
+```py
+Enter the in time in hours and minutes (e.g., 9:30 AM): 10:45 AM
+Enter the out time in hours and minutes (e.g., 9:30 PM): 2:30 PM
+Duration: 3 hours 45 minutes
+```
