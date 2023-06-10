@@ -52,3 +52,8 @@ Enter the in time in hours and minutes (e.g., 9:30 AM): 10:45 AM
 Enter the out time in hours and minutes (e.g., 9:30 PM): 2:30 PM
 Duration: 3 hours 45 minutes
 ```
+
+## Executable creation
+```pyinstaller --onefile .\in_time_-_out_time__hours.py``` <br>
+```pyinstaller --onefile in_out_time.py``` <br>
+```pyinstaller --onefile hours_counter.py``` <br>
